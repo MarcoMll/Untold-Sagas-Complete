@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a7bb37ee7f921174dbb9aa140cc21f59
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Town10DisplayW05-Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2775652ce794254d8477d597876134b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
